@@ -18,12 +18,16 @@ In this course, learn the fundamentals of cryptography, including symmetric and 
 
 |   Index | Name                                                        | Difficulty   | Practice                                                                                                                               |
 |---------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Installing Cryptography Tools and Environment Setu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>Start Lab</a>    |
-|       2 | 📖 🆓 Symmetric Encryption Basics in Cryptography           | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-symmetric-encryption-basics-in-cryptography-632724'>Start Lab</a>                 |
-|       3 | 📖 🆓 Hashing with SHA-256 in Cryptography                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>Start Lab</a>                   |
-|       4 | 📖 🆓 Asymmetric Encryption with RSA in Cryptography        | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>Start Lab</a>              |
-|       5 | 📖 🆓 Digital Signatures with RSA in Cryptography           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>Start Lab</a>            |
-|       6 | 📖 🆓 Basic Key Exchange with Diffie-Hellman in Cryptogr... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Start Lab</a> |
+|      01 | 📖 🆓 Installing Cryptography Tools and Environment Setu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>Start Lab</a>    |
+|      02 | 📖 🆓 Symmetric Encryption Basics in Cryptography           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-symmetric-encryption-basics-in-cryptography-632724'>Start Lab</a>            |
+|      03 | 📖 🆓 Hashing with SHA-256 in Cryptography                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>Start Lab</a>                   |
+|      04 | 📖 🆓 Asymmetric Encryption with RSA in Cryptography        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>Start Lab</a>         |
+|      05 | 📖 🆓 Digital Signatures with RSA in Cryptography           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>Start Lab</a>            |
+|      06 | 📖 🆓 Basic Key Exchange with Diffie-Hellman in Cryptogr... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Start Lab</a> |
+|      07 | 📖 🆓 Message Authentication with HMAC in Cryptography      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>Start Lab</a>       |
+|      08 | 📖 🆓 Generating X.509 Certificates in Cryptography         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>Start Lab</a>          |
+|      09 | 📖 🆓 Basic Public Key Infrastructure PKI in Cryptograph... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Start Lab</a>    |
+|      10 | 📖 🆓 Hybrid Encryption Schemes in Cryptography             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Start Lab</a>              |
 
 ## Environment
 
