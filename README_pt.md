@@ -18,12 +18,16 @@ Neste curso, aprenda os fundamentos da criptografia, incluindo criptografia sim�
 
 |   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                                     |
 |----------|-------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Instalação de Ferramentas de Criptografia e Config... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>Iniciar Lab</a>    |
-|        2 | 📖 🆓 Noções Básicas de Criptografia Simétrica em Cripto... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-symmetric-encryption-basics-in-cryptography-632724'>Iniciar Lab</a>                 |
-|        3 | 📖 🆓 Hashing com SHA-256 em Criptografia                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>Iniciar Lab</a>                   |
-|        4 | 📖 🆓 Criptografia Assimétrica com RSA em Criptografia      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>Iniciar Lab</a>              |
-|        5 | 📖 🆓 Assinaturas Digitais com RSA em Criptografia          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>Iniciar Lab</a>            |
-|        6 | 📖 🆓 Troca Básica de Chaves com Diffie-Hellman em Cript... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Iniciar Lab</a> |
+|       01 | 📖 🆓 Instalação de Ferramentas de Criptografia e Config... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>Iniciar Lab</a>    |
+|       02 | 📖 🆓 Fundamentos de Criptografia Simétrica em Criptogra... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-symmetric-encryption-basics-in-cryptography-632724'>Iniciar Lab</a>            |
+|       03 | 📖 🆓 Hashing com SHA-256 em Criptografia                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>Iniciar Lab</a>                   |
+|       04 | 📖 🆓 Criptografia Assimétrica com RSA em Criptografia      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>Iniciar Lab</a>         |
+|       05 | 📖 🆓 Assinaturas Digitais com RSA em Criptografia          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>Iniciar Lab</a>            |
+|       06 | 📖 🆓 Troca Básica de Chaves com Diffie-Hellman em Cript... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Iniciar Lab</a> |
+|       07 | 📖 🆓 Autenticação de Mensagens com HMAC em Criptografia    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>Iniciar Lab</a>       |
+|       08 | 📖 🆓 Geração de Certificados X.509 em Criptografia         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>Iniciar Lab</a>          |
+|       09 | 📖 🆓 Infraestrutura de Chave Pública (PKI) Básica em Cr... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Iniciar Lab</a>    |
+|       10 | 📖 🆓 Esquemas de Criptografia Híbrida em Criptografia      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Iniciar Lab</a>              |
 
 ## Ambiente
 
