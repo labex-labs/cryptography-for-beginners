@@ -16,14 +16,18 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                               | 난이도   | 연습                                                                                                                                      |
-|----------|--------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 암호화 도구 설치 및 환경 설정                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>실습 시작</a>    |
-|        2 | 📖 🆓 암호학의 대칭 키 암호화 기본 사항                            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-symmetric-encryption-basics-in-cryptography-632724'>실습 시작</a>                 |
-|        3 | 📖 🆓 암호학에서 SHA-256 을 이용한 해싱                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>실습 시작</a>                   |
-|        4 | 📖 🆓 암호학에서의 RSA 를 이용한 비대칭 암호화                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>실습 시작</a>              |
-|        5 | 📖 🆓 암호학에서의 RSA 를 이용한 디지털 서명                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>실습 시작</a>            |
-|        6 | 📖 🆓 암호학의 디피 - 헬만 (Diffie-Hellman) 을 이용한 기본 키 교환 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>실습 시작</a> |
+|   인덱스 | 이름                                                                   | 난이도   | 연습                                                                                                                                      |
+|----------|------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 암호화 도구 설치 및 환경 설정                                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>실습 시작</a>    |
+|       02 | 📖 🆓 암호학의 대칭 키 암호화 기본 사항                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-symmetric-encryption-basics-in-cryptography-632724'>실습 시작</a>            |
+|       03 | 📖 🆓 암호학에서 SHA-256 을 이용한 해싱                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>실습 시작</a>                   |
+|       04 | 📖 🆓 암호학에서의 RSA 를 이용한 비대칭 암호화                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>실습 시작</a>         |
+|       05 | 📖 🆓 암호학에서 RSA 를 이용한 디지털 서명                             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>실습 시작</a>            |
+|       06 | 📖 🆓 암호학에서의 디피 - 헬만 (Diffie-Hellman) 을 이용한 기본 키 교환 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>실습 시작</a> |
+|       07 | 📖 🆓 암호학에서 HMAC 를 이용한 메시지 인증                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>실습 시작</a>       |
+|       08 | 📖 🆓 암호학에서 X.509 인증서 생성하기                                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>실습 시작</a>          |
+|       09 | 📖 🆓 암호학의 기본 공개 키 기반 구조 (PKI)                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>실습 시작</a>    |
+|       10 | 📖 🆓 암호학의 하이브리드 암호화 방식                                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>실습 시작</a>              |
 
 ## 환경
 
