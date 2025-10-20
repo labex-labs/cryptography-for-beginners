@@ -26,7 +26,7 @@ Dans ce cours, apprenez les fondamentaux de la cryptographie, y compris le chiff
 |      06 | 📖 🆓 Échange de Clés Basique avec Diffie-Hellman en Cry... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Commencer le Lab</a> |
 |      07 | 📖 🆓 Authentification de Message avec HMAC en Cryptogra... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>Commencer le Lab</a>       |
 |      08 | 📖 🆓 Génération de Certificats X.509 en Cryptographie      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>Commencer le Lab</a>          |
-|      09 | 📖 🆓 Bases de l'Infrastructure à Clé Publique (PKI) en ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Commencer le Lab</a>    |
+|      09 | 📖 🆓 Infrastructure à Clé Publique (PKI) de Base en Cry... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Commencer le Lab</a>    |
 |      10 | 📖 🆓 Schémas de Chiffrement Hybride en Cryptographie       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Commencer le Lab</a>              |
 
 ## Environnement
