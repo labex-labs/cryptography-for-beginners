@@ -26,8 +26,8 @@
 |             06 | 📖 🆓 暗号技術におけるディフィー・ヘルマンによる基本的な鍵交換 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>ラボを開始</a> |
 |             07 | 📖 🆓 暗号技術における HMAC を用いたメッセージ認証             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>ラボを開始</a>       |
 |             08 | 📖 🆓 暗号技術における X.509 証明書の発行                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>ラボを開始</a>          |
-|             09 | 📖 🆓 暗号技術における基本的な公開鍵基盤（PKI）                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>ラボを開始</a>    |
-|             10 | 📖 🆓 暗号技術におけるハイブリッド暗号化スキーム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>ラボを開始</a>              |
+|             09 | 📖 🆓 暗号技術における基本的な公開鍵基盤 PKI                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>ラボを開始</a>    |
+|             10 | 📖 🆓 暗号技術におけるハイブリッド暗号方式                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>ラボを開始</a>              |
 
 ## 環境
 
