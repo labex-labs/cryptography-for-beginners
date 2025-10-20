@@ -26,8 +26,8 @@
 |       06 | 📖 🆓 Базовый обмен ключами Диффи-Хеллмана в криптографи... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Начать Лабораторию</a> |
 |       07 | 📖 🆓 Аутентификация сообщений с помощью HMAC в криптогр... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>Начать Лабораторию</a>       |
 |       08 | 📖 🆓 Генерация сертификатов X.509 в криптографии           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>Начать Лабораторию</a>          |
-|       09 | 📖 🆓 Основы Инфраструктуры Открытых Ключей (PKI) в Крип... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Начать Лабораторию</a>    |
-|       10 | 📖 🆓 Схемы гибридного шифрования в криптографии            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Начать Лабораторию</a>              |
+|       09 | 📖 🆓 Основы инфраструктуры открытых ключей PKI в крипто... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Начать Лабораторию</a>    |
+|       10 | 📖 🆓 Гибридные Схемы Шифрования в Криптографии             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Начать Лабораторию</a>              |
 
 ## Среда
 
