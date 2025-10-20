@@ -26,7 +26,7 @@ In diesem Kurs lernen Sie die Grundlagen der Kryptographie kennen, einschließli
 |      06 | 📖 🆓 Grundlegender Schlüsselaustausch mit Diffie-Hellma... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>Labor Starten</a> |
 |      07 | 📖 🆓 Nachrichtenauthentifizierung mit HMAC in der Krypt... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>Labor Starten</a>       |
 |      08 | 📖 🆓 Erstellung von X.509-Zertifikaten in der Kryptogra... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>Labor Starten</a>          |
-|      09 | 📖 🆓 Grundlagen der Public Key Infrastructure (PKI) in ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Labor Starten</a>    |
+|      09 | 📖 🆓 Grundlegende Public Key Infrastructure PKI in der ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>Labor Starten</a>    |
 |      10 | 📖 🆓 Hybride Verschlüsselungsschemata in der Kryptograp... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>Labor Starten</a>              |
 
 ## Umgebung
