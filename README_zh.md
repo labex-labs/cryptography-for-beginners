@@ -16,22 +16,22 @@
 
 ## 练习
 
-|   序号 | 名称                                      | 难度   | 练习                                                                                                                                     |
-|--------|-------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🆓 安装加密工具和环境设置              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-installing-cryptography-tools-and-environment-setup-632723'>开始实验</a>    |
-|     02 | 📖 🆓 密码学中的对称加密基础              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-symmetric-encryption-basics-in-cryptography-632724'>开始实验</a>            |
-|     03 | 📖 🆓 密码学中的 SHA-256 哈希             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hashing-with-sha-256-in-cryptography-632722'>开始实验</a>                   |
-|     04 | 📖 🆓 密码学中的 RSA 非对称加密           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-asymmetric-encryption-with-rsa-in-cryptography-632719'>开始实验</a>         |
-|     05 | 📖 🆓 密码学中的 RSA 数字签名             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-digital-signatures-with-rsa-in-cryptography-632721'>开始实验</a>            |
-|     06 | 📖 🆓 密码学中的迪菲 - 赫尔曼基础密钥交换 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720'>开始实验</a> |
-|     07 | 📖 🆓 密码学中的 HMAC 消息认证            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-message-authentication-with-hmac-in-cryptography-632760'>开始实验</a>       |
-|     08 | 📖 🆓 密码学中生成 X.509 证书             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-generating-x-509-certificates-in-cryptography-632758'>开始实验</a>          |
-|     09 | 📖 🆓 密码学中的基础公钥基础设施 PKI      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-public-key-infrastructure-pki-in-cryptography-632757'>开始实验</a>    |
-|     10 | 📖 🆓 密码学中的混合加密方案              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hybrid-encryption-schemes-in-cryptography-632759'>开始实验</a>              |
+|   序号 | 名称                                      | 难度   | 练习                                                                                                                                                                  |
+|--------|-------------------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 🧩 🆓 安装加密工具和环境设置              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-installing-cryptography-tools-and-environment-setup-632723?course=cryptography-for-beginners'>开始实验</a>    |
+|     02 | 🧩 🆓 密码学中的对称加密基础              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-symmetric-encryption-basics-in-cryptography-632724?course=cryptography-for-beginners'>开始实验</a>            |
+|     03 | 🧩 🆓 密码学中的 SHA-256 哈希             | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-hashing-with-sha-256-in-cryptography-632722?course=cryptography-for-beginners'>开始实验</a>                   |
+|     04 | 🧩 🆓 密码学中的 RSA 非对称加密           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-asymmetric-encryption-with-rsa-in-cryptography-632719?course=cryptography-for-beginners'>开始实验</a>         |
+|     05 | 🧩 🆓 密码学中的 RSA 数字签名             | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-digital-signatures-with-rsa-in-cryptography-632721?course=cryptography-for-beginners'>开始实验</a>            |
+|     06 | 🧩 🆓 密码学中的迪菲 - 赫尔曼基础密钥交换 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-key-exchange-with-diffie-hellman-in-cryptography-632720?course=cryptography-for-beginners'>开始实验</a> |
+|     07 | 🧩 🆓 密码学中的 HMAC 消息认证            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-message-authentication-with-hmac-in-cryptography-632760?course=cryptography-for-beginners'>开始实验</a>       |
+|     08 | 🧩 🆓 密码学中生成 X.509 证书             | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-generating-x-509-certificates-in-cryptography-632758?course=cryptography-for-beginners'>开始实验</a>          |
+|     09 | 🧩 🆓 密码学中的基础公钥基础设施 PKI      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-public-key-infrastructure-pki-in-cryptography-632757?course=cryptography-for-beginners'>开始实验</a>    |
+|     10 | 🧩 🆓 密码学中的混合加密方案              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-hybrid-encryption-schemes-in-cryptography-632759?course=cryptography-for-beginners'>开始实验</a>              |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
